@@ -1,1 +1,1 @@
-Wireless Water Temp sensor
+Pool Controller App
